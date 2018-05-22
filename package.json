@@ -16,6 +16,7 @@
   "devDependencies": {
     "flow-bin": "^0.72.0"
   },
+  "homepage" : "./yt-course-tracker",
   "main": "index.js",
   "repository": "git@github.com:preyneyv/yt-course-tracker.git",
   "author": "Pranav Nutalapati <pranavnutalapati@gmail.com>",
